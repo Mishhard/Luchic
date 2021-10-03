@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.28803.156
+VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WEB", "WEB\WEB.pyproj", "{C1CD8596-1974-4F1E-8ED3-3652A35C31C9}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WEB", "WEB\WEB.pyproj", "{9BB19048-930F-4DE9-8581-62306816B06E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C1CD8596-1974-4F1E-8ED3-3652A35C31C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C1CD8596-1974-4F1E-8ED3-3652A35C31C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C1CD8596-1974-4F1E-8ED3-3652A35C31C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C1CD8596-1974-4F1E-8ED3-3652A35C31C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BB19048-930F-4DE9-8581-62306816B06E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB19048-930F-4DE9-8581-62306816B06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB19048-930F-4DE9-8581-62306816B06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB19048-930F-4DE9-8581-62306816B06E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {06A1F20C-3E4B-465C-BB3D-8C8D9AE38295}
+		SolutionGuid = {AF8EDA21-74CB-404B-80C1-994A045608D8}
 	EndGlobalSection
 EndGlobal
